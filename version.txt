@@ -1,8 +1,1 @@
-{
-  "version": "1.0.9",
-  "url": "https://raw.githubusercontent.com/bramkennis/ota/main/releases/1.0.9/OAC-LED.bin",
-  "allowed": [
-    "30:ED:A0:1E:62:AC",
-    "24:0A:C4:12:34:56"
-  ]
-}
+1.0.9
